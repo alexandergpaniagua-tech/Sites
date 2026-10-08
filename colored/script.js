@@ -1,3 +1,13 @@
+//Available for reproduction under trademark law.
+//Made by: Alexander Paniagua ~ Buzz Needs Bees
+//Send me a serious inquiry for more code: @yungcollat or buzzsmusic@gmail.com
+//Made this with HTML5, CSS3, and JavaScript, can be used offline.
+//
+//Not for Commercial use. For offline datasheets and accounting.
+
+//Tags for SEO: #Code #Scripts #Datasheets #Data #Datatable #Table #Offline #Program #Excel #Azure #AWS #Forms #Sites #PaaS   
+//#platform #collateral #yungcollat
+
 var rows = null;
 var columns = null;
 var inputElement = document.getElementById("default");
